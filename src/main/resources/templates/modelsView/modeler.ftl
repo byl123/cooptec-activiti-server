@@ -28,12 +28,12 @@
 </head>
 <body>
 
-	<#--<div class="navbar navbar-fixed-top navbar-inverse" role="navigation" id="main-header">
-	    <div class="navbar-header">
+	<div class="navbar navbar-fixed-top navbar-inverse" role="navigation" id="main-header">
+	   <#-- <div class="navbar-header">
             <a href="" ng-click="backToLanding()" class="navbar-brand"
                title="{{'GENERAL.MAIN-TITLE' | translate}}"><span class="sr-only">{{'GENERAL.MAIN-TITLE' | translate}}</span></a>
-        </div>
-	</div>-->
+        </div>-->
+	</div>
 
 	<!--[if lt IE 9]>
 	<div class="unsupported-browser">

@@ -20,7 +20,7 @@ import java.util.List;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class TestProcessDef {
+public class ProcessDefTest {
 
     @Autowired
     private RepositoryService repositoryService;

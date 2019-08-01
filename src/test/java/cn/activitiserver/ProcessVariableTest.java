@@ -20,7 +20,7 @@ import java.util.Map;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class TestProcessVariable {
+public class ProcessVariableTest {
 
     // 存储服务
     @Autowired
@@ -76,11 +76,5 @@ public class TestProcessVariable {
             System.out.println("Key："+hi.getVariableName());
             System.out.println("Value："+hi.getValue());
         }
-    }
-    @Test
-    public void completeProcess(){
-        // 完成任务时设置流程变量
-
-
     }
 }
